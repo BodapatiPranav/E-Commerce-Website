@@ -11,3 +11,6 @@ client/.env
 .vscode/
 .DS_Store
 pass.txt
+pass.txt
+server/.env
+client/.env

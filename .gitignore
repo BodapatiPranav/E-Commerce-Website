@@ -1,0 +1,13 @@
+﻿# Node deps
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment
+server/.env
+client/.env
+
+# IDE / OS
+.vscode/
+.DS_Store
+pass.txt
